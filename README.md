@@ -11,7 +11,7 @@ This Python software generates a random number between 1 and 100 and asks the us
 Requirements and Dependencies:
 
 Python 3.11.2.,
-Random library should be imported to run the program here
+Random library should be imported to run the program
 
 Installation and Setup:
 Clone the repository or download the source code.
