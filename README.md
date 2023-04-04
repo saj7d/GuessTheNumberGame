@@ -9,10 +9,12 @@ Purpose
 This Python software generates a random number between 1 and 100 and asks the user to predict it. The software will tell the user whether the guess was too high or too low and keep track of how many attempts it took the user to get it right. Also, the user can quit the game at anytime.
 
 Requirements and Dependencies
+
 Python 3.11.2. 
 random library should be imported to run the program here
 
 Installation and Setup
+
 Clone the repository or download the source code.
 Install Python 3.11.2. if not already installed.
 Install any required IDE to run the code such as PyCharm, Visual Studio Code, or IDLE.
